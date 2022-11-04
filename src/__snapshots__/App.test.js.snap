@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+      style={
+        Object {
+          "display": "flex",
+          "justifyContent": "center",
+          "textAlign": "center",
+        }
+      }
+    >
+      <div
+        className="card"
+      >
+        <div
+          className="card"
+          style={
+            Object {
+              "width": "18rem",
+            }
+          }
+        >
+          <img
+            className="card-img-top"
+            src="Profile.jpg"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Martiz C. Ware
+            </div>
+            <p
+              className="card-text"
+            >
+              My name is Martiz and I like to hang out with my friends when I can and go to the gym.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
